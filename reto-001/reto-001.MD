@@ -17,7 +17,7 @@ De forma introductoria, Nginx es un web server similar a Apache, sin embargo és
 Se escogió este servidor debido a lo ligero y rápido, así como lo popular que se ha vuelto en herramientas DevOps últimamente.
 
 > Puedes visitar https://hub.docker.com/ y buscar la imagen de docker Nginx 
-> Ahí encontraras ejemplos de valor para orientarte como empezar.
+> ahí encontraras ejemplos de valor para orientarte como empezar.
 
 ![docker101-reto001](../imagenes/instalando-web-server-1.PNG)
 
