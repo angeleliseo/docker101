@@ -7,6 +7,8 @@
 * Tener Docker instalado en ubuntu
 * Tener dado de alta nuestro usuario en el grupo de docker
 
+https://github.com/angeleliseo/docker101/blob/master/imagenes/instalando-web-server-1.PNG
+
 ### Instalando Nginx web server
 
 De forma introductoria, Nginx es un web server similar a Apache, sin embargo éste está diseñado pensando en el alto rendimiento y en la simlpeza a la hora de usarlo.
