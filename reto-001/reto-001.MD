@@ -54,7 +54,7 @@ Para ello usa el protocolo SMB que es el que por defecto utiliza Windows y el so
 
 ![docker101-reto001](../imagenes/instalando-web-server-3.PNG)
 
-### Comenta en Nuestras redes sociales https://www.facebook.com/ITLEARNINGMEX/
+### Comenta en Nuestras redes sociales https://www.facebook.com/ITLEARNINGMEX/posts/2862087017222647
 * Si tienes dudas
 * Aclaraciones
 * **Comparte la evidencia de que lo lograste con screenshoots de tu web server funcionando**
