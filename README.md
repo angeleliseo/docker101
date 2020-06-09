@@ -14,10 +14,10 @@ Este repositorio contiene algunas prácticas de docker
 
 De forma introductoria, Nginx es un web server similar a Apache, sin embargo éste está diseñado pensando en el alto rendimiento y en la simlpeza a la hora de usarlo.
 
-Se escogió este servidor debido a lo ligero y rápido, así como lo popular que se ha vuelto en herramientas DevOps ultimamente.
+Se escogió este servidor debido a lo ligero y rápido, así como lo popular que se ha vuelto en herramientas DevOps últimamente.
 
 **Crea una carpeta donde almacenarás los archivos del web server**
-Comunmente esta carpeta se le llama Document Root y es donde los archivos que el servidor web expondrá se almacenarán.
+Comúnmente esta carpeta se le llama Document Root y es donde los archivos que el servidor web expondrá se almacenarán.
 Para esto usa el comando en tu consola de ubuntu:
 ```shell
 mkdir contenido_web
