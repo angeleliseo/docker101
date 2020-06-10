@@ -7,6 +7,10 @@
 * Tener Docker instalado en ubuntu
 * Tener dado de alta nuestro usuario en el grupo de docker
 
+>Si eres nuevo puedes encontrar como instalar y configurar los pre requisitos aquí:
+> * [Crear máquina virtual con Linux](https://www.facebook.com/ITLEARNINGMEX/videos/292578068548548/)
+> * [Como instalar Docker](https://www.facebook.com/ITLEARNINGMEX/videos/258659821882769/)
+
 ![docker101-reto001](../imagenes/instalando-web-server-0.PNG)
 
 
