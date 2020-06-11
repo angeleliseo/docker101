@@ -1,7 +1,4 @@
-# docker101
-Este repositorio contiene algunas prácticas de docker
-
-## Instalando un Web Server con Docker
+# Instalando un Web Server con Docker
 
 **Como prerequisitos es necesario tener lo siguiente:**
 
