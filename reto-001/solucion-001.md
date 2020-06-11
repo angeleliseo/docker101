@@ -109,7 +109,7 @@ sudo smbpasswd -a username
 * Abre la carpeta, se te pedirá, usuario y contraseña. Usa el usuario de tu máquina Ubuntu y la contraseña que generaste para el usuario Samba.
 * Una vez puedas abrir la carpeta, solo hace falta agregar los archivos que quieras subir a tu web server. Por ejemplo sube o crea un hola.html que contenga el mensaje **"Hola, desde Nginx"**
 * Y por último comprueba que este archivo es accesible desde tu web server abriendo el web browser en tu máquina local (la que tiene instalado Virtual Box) y poniendo en tu barra de direcciones **http://192.168.1.150:8080/hola.html** reemplaza la IP por la IP que obtuviste en los primeros pasos.
-* El mensaje **"Hola, desde Ngxin"** debe de ser desplegado en tu navegador.
+* El mensaje **"Hola, desde Nginx"** debe de ser desplegado en tu navegador.
 
 ## Muchas Felicidades, en hora buena
 Ya has sido capaz de levantar y configurar un web server Nginx y facilitar su uso mediante una carpeta compartida!!
