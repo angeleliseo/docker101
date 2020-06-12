@@ -6,15 +6,17 @@ https://docs.docker.com/compose/install/
 ### Paso 1
 Baja el software del repositorio oficial abajo usando el comando curl
 
-1
+```shell
 sudo curl -L "https://github.com/docker/compose/releases/download/1.26.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+```
 
 ### Paso 2
 
 Da permisos de ejecucion sobre el directorio donde bajaste el docker compose de su repositorio.
 
-2
+```shell
 sudo chmod +x /usr/local/bin/docker-compose
+```
 
 ### Valida
 
