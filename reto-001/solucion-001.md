@@ -30,7 +30,7 @@ Ejecutar el siguiente comando en la consola de nuestro Ubuntu:
 Remplaza **/home/user/contenido_web** con el path que obtuviste anteriormente
 
 ```shell
-docker run -p 8080:80 --name web_server -v /home/user/volumes/websrv:/usr/share/nginx/html:ro -d nginx
+docker run -p 8080:80 --name web_server -v /home/user/contenido_web:/usr/share/nginx/html:ro -d nginx
 ```
 
 ### Validando nuestra instalación de Nginx
